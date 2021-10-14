@@ -10,12 +10,33 @@
 </h3>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shubham05178&show_icons=true&count_private=true" alt="" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham05178&hide=html" alt="partho-maple" /> </p>
 
 
-- 📫 󠀠󠀠 How to reach me **subhamnagaria@gmail.com**
 
+<p align="center">
+<a href="https://github.com/Shubham05178">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubham05178&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> 
+ <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shubham05178&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</a>
+</p>
+
+<p align="center">
+ <img height="220em" src="http://github-readme-streak-stats.herokuapp.com?user=Shubham05178&theme=algolia&hide_border=true"/> 
+</p>
+ <br>
+     </p>
+
+ 
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Shubham05178&theme=dracula"/></p>
+
+ <p align="center">
+     Profile views
+  </br>
+        <img  src="https://profile-counter.glitch.me/Shubham05178/count.svg" alt="">
+<br><br></p>
+<p>
+  - 📫 󠀠󠀠 How to reach me <b>subhamnagaria@gmail.com</b>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/the-shubham-nagaria/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="shubham-nagaria" height="30" width="30" /></a>
