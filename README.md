@@ -1,6 +1,6 @@
-<h1 align="center">Hi there,<img src="https://img.icons8.com/color/48/000000/man-raising-hand-icon.png"/> My name is Shubham Nagaria</h1>
+<h1 align="center">Hi there,<img src="https://img.icons8.com/color/48/000000/man-raising-hand-icon.png"/> I'm Shubham Nagaria</h1>
 <h3 align="center">I'm a passionate Software Development Engineer󠀠<br>
-<img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-technology-literary-genres-becris-flat-becris.png" height="50" width="50"/> 󠀠󠀠4+ years of professional experience in Data Science development, well-versed in Clean-Modular architecture, algorithm and data-structure. 
+<img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-technology-literary-genres-becris-flat-becris.png" height="50" width="50"/> 󠀠󠀠2+ years of professional experience in Data Science development, well-versed in Clean-Modular architecture, algorithm and data-structure. 
   <br>
   <br>
   I built high performant algorithms, used by millions, and codebase that scales to big engineering team, drove the product vision for my company
