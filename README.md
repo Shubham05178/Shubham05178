@@ -9,7 +9,7 @@
 <!--   Open for new opportunities -->
 </h3>
 
-
+ <img src="github-contribution-grid-snake.svg">
 
 
 
