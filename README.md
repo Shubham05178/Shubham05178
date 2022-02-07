@@ -8,11 +8,6 @@
   <br>
 <!--   Open for new opportunities -->
 </h3>
-
- <img src="github-contribution-grid-snake.svg">
-
-
-
 <p align="center">
 <a href="https://github.com/Shubham05178">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubham05178&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> 
